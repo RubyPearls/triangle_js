@@ -2,9 +2,13 @@
 
 This triangle allows the user to input a triangle and find out how what kind it is!
 
-*Equilateral = All sides are equal
-*Isosceles = 2 sides are equal
-*Scalene = No sides are equal
+```*Equilateral = All sides are equal```
+
+```*Isosceles = 2 sides are equal```
+
+```*Scalene = No sides are equal```
+
+```*Inexistent shape = One side is longer than the other 2 sides combined```
 
 ##Author
 
