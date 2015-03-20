@@ -12,6 +12,6 @@ describe("triangle", function() {
 	});
 
 	it("will not be a triangle if one side is longer than 2 others combined length", function() {
-		expect(triangle(2, 2, 8)).to.equal(false);
+		expect(triangle(2, 2, 8)).to.equal("inexistent shape");
 	});
 });
